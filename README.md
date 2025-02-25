@@ -4,4 +4,4 @@ The home loan approval process is a crucial step for many individuals and famili
 
   
 II. BUSINESS OBJECTIVES
-The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling out the online application form. Here we are provided with a partial data set. Fig. 1 illustrates a typical home loan process where a loan officer has to manually do the underwriting.
+The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling out the online application form. 
